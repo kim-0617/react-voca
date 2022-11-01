@@ -88,6 +88,13 @@
       "kor": "속성",
       "isDone": false,
       "id": 15
+    },
+    {
+      "day": "6",
+      "eng": "youtube",
+      "kor": "유튜브",
+      "isDone": false,
+      "id": 16
     }
   ]
 }
